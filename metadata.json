@@ -1,0 +1,6 @@
+{
+  "name": "Chundrigar LeadMatrix - Karachi Commercial Office & Investor Terminal",
+  "description": "AI-powered lead discovery, web scraping intelligence, and investor dealroom for commercial offices on I.I. Chundrigar Road, Karachi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
